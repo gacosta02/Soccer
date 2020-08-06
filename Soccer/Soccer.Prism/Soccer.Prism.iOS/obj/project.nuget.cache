@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "UC3lYCIqG7x6aZxSV6f3nJxWXWqERYdwwz830gmodx50fOf6qQl04srCuJ2tVuxjnLAaz0hM7G310/cZESLlig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gacosta\\Documents\\Soccer\\Soccer\\Soccer.Prism\\Soccer.Prism.iOS\\Soccer.Prism.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gacosta\\.nuget\\packages\\dryioc.dll\\4.0.7\\dryioc.dll.4.0.7.nupkg.sha512",
+    "C:\\Users\\gacosta\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\gacosta\\.nuget\\packages\\prism.dryioc.forms\\7.2.0.1422\\prism.dryioc.forms.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\gacosta\\.nuget\\packages\\prism.forms\\7.2.0.1422\\prism.forms.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\gacosta\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\gacosta\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
+    "C:\\Users\\gacosta\\.nuget\\packages\\xamarin.essentials.interfaces\\1.5.2\\xamarin.essentials.interfaces.1.5.2.nupkg.sha512",
+    "C:\\Users\\gacosta\\.nuget\\packages\\xamarin.forms\\4.5.0.617\\xamarin.forms.4.5.0.617.nupkg.sha512"
+  ],
+  "logs": []
+}
